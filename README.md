@@ -1,0 +1,1 @@
+## The details can be found in https://medium.com/@Roy.Wong/how-batch-normalization-works-a-practical-guide-with-pytorch-77031c375711
